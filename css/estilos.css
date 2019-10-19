@@ -1,0 +1,94 @@
+body{
+    background-attachment: fixed;
+}
+.pantallaprincipal{
+  max-width: 100%;
+}
+
+#cont1{
+  width: 90%;
+  height: 30px;
+  background: transparent;
+  border:1px solid #ff0054;
+  box-shadow: 0 0 10px #ff0054;
+
+}
+
+
+#cont2{
+  width: 44%;
+  height: 30px;
+  background: transparent;
+  border:1px solid #ff0054;
+  box-shadow: 0 0 05px #ff0054;
+  margin-left: 10px;
+}
+
+#cont3{
+  width: 33.5%;
+  min-width: 50px;
+  height: 30px;
+  background: transparent;
+  border:1px solid #ff0054;
+  box-shadow: 0 0 05px #ff0054;
+  margin-left: 0px;
+}
+
+#cube{
+
+  width: 70%;
+  height: 30px;
+  background: transparen;
+  border:1px solid #ff0054;
+  box-shadow: 0 0 05px #ff0054;
+
+}
+
+#Nav{
+  border:0px solid ;
+  box-shadow: 0 0 20px white;
+	background-color: #ac0043;
+
+}
+
+.btn{
+  background-color: #b30040;
+  border-radius: 0px;
+  color: white;
+  border:1px solid #ff0054;
+  box-shadow: 0 0 30px #ff0054;
+}
+
+#col1{
+  background-color: #595959;
+  border:1px solid #ff0054;
+  height: 20px;
+}
+
+#col2{
+  background-color: #8b8b8b;
+  border:1px solid #ff0054;
+}
+
+#prim{
+
+}
+
+#sec{
+
+}
+
+#table{
+  border:1px solid #ff0054;
+  box-shadow: 0 0 10px #ff0054;
+
+}
+
+#notas{
+  border:1px solid #ff0054;
+  box-shadow: 0 0 30px #ff0054;
+}
+
+#carta{
+  border: 1px solid red;
+}
